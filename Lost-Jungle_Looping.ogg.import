@@ -1,0 +1,15 @@
+[remap]
+
+importer="ogg_vorbis"
+type="AudioStreamOGGVorbis"
+path="res://.import/Lost-Jungle_Looping.ogg-e72e07cf426c01a01d0bd59ee209abc0.oggstr"
+
+[deps]
+
+source_file="res://Lost-Jungle_Looping.ogg"
+dest_files=[ "res://.import/Lost-Jungle_Looping.ogg-e72e07cf426c01a01d0bd59ee209abc0.oggstr" ]
+
+[params]
+
+loop=true
+loop_offset=0
