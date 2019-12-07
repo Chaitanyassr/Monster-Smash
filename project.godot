@@ -29,7 +29,7 @@ window/stretch/mode="viewport"
 
 [editor_plugins]
 
-enabled=PoolStringArray( "gamejolt_api_v2" )
+enabled=PoolStringArray(  )
 
 [rendering]
 

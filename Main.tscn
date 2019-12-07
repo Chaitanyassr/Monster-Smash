@@ -261,6 +261,7 @@ stream = ExtResource( 14 )
 position = Vector2( -0.698322, -0.349157 )
 scale = Vector2( 0.48918, 0.639193 )
 frames = SubResource( 7 )
+frame = 3
 playing = true
 flip_v = true
 
@@ -280,7 +281,6 @@ stream = ExtResource( 14 )
 position = Vector2( 3.5, -3 )
 scale = Vector2( 0.591744, 0.638096 )
 frames = SubResource( 8 )
-frame = 4
 playing = true
 
 [node name="UFO5" type="Area2D" parent="."]
@@ -317,6 +317,7 @@ stream = ExtResource( 14 )
 position = Vector2( -1.35374, 1.80501 )
 scale = Vector2( 0.457673, 0.544453 )
 frames = SubResource( 11 )
+frame = 1
 playing = true
 
 [node name="BUG" type="Area2D" parent="."]
